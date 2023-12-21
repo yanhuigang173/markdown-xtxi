@@ -35,7 +35,7 @@ title('欠采样 (3000 Hz)');
 
 
     
-![png](/信号与系统实验/matlabtest5_files/matlabtest5_2_1.png)
+![png](/matlabtest5_files/matlabtest5_2_1.png)
     
 
 
